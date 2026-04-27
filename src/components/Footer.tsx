@@ -11,7 +11,7 @@ export default function Footer() {
         {/* Top: Logo and Mail */}
         <div className="flex flex-col mb-12 border-b border-white/20 pb-8 gap-8">
           <div className="text-2xl font-bold flex items-center">
-            <img src="/public/assets/agro limk logo png3.png" alt="AgroLink Logo" className="h-16 w-auto" />
+            <img src="/assets/agro limk logo png3.png" alt="AgroLink Logo" className="h-16 w-auto" />
           </div>
           <div className="flex items-center gap-4">
             <div className="bg-white/10 p-3 rounded-full">

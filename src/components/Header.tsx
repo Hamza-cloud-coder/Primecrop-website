@@ -14,7 +14,7 @@ export default function Header() {
       data-aos="fade-down"
       className="bg-primary-container text-white shadow-lg sticky top-0 z-50 h-20 w-full flex justify-between items-center px-4 md:px-12"
     >
-      <img src="/public/assets/agro limk logo png3.png" alt="AgroLink Logo" className="h-14 w-auto" />
+      <img src="/assets/agro limk logo png3.png" alt="AgroLink Logo" className="h-14 w-auto" />
       
       {/* Desktop Menu */}
       <nav className="hidden md:flex items-center gap-8 font-inter text-sm tracking-tight">

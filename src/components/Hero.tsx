@@ -44,7 +44,7 @@ export default function Hero() {
             <div className="bg-white/10 backdrop-blur-xl border border-white/20 p-4 rounded-3xl w-72 shadow-2xl">
                 <div className="aspect-square bg-surface-container rounded-2xl overflow-hidden mb-4">
                     <img className="w-full h-full object-cover" 
-                        src="/public/assets/hydroponic-lettuce-seedlings-farming-modern-600nw-2711981705.webp"
+                        src="/assets/hydroponic-lettuce-seedlings-farming-modern-600nw-2711981705.webp"
                         alt="Agricultural machinery"
                     />
                 </div>

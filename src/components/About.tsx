@@ -3,7 +3,7 @@ export default function About() {
   const services = [
     { title: 'Food & Beverage Marketplace', text: 'Market everything from raw commodities to premium artisanal products with AgroLink, the perfect solution for brands seeking new distribution channels', image: 'https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1000&auto=format&fit=crop' },
     { title: 'Logistics & Transport', text: 'Solve your shipping challenges with AgroLink. Access reliable freight partners specialized in cold-chain and bulk cargo.', image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1000&auto=format&fit=crop' },
-    { title: 'Agri-Tech & Insights', text: 'Buy and sell machinery with confidence inside AgroLink. Access detailed technical specifications and direct contact with dealers of new and used equipment.', image: '/public/assets/NOTA4-9.jpg' },
+    { title: 'Agri-Tech & Insights', text: 'Buy and sell machinery with confidence inside AgroLink. Access detailed technical specifications and direct contact with dealers of new and used equipment.', image: '/assets/NOTA4-9.jpg' },
   ];
 
   return (
