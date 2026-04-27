@@ -30,10 +30,10 @@ export default function Hero() {
             AgroLink unites farmers, processors, distributors, and buyers for direct trade without intermediaries. Manage crop, livestock, raw-material, and machinery transactions in a single global marketplace.
           </p>
           <div className="flex flex-wrap gap-4">
-            <button className="bg-secondary-container text-primary-container font-medium px-6 py-3 md:px-8 md:py-4 rounded-full text-base md:text-lg hover:brightness-110 transition-all flex items-center gap-2">
+            <a href="https://wa.me/61459771636" className="bg-secondary-container text-primary-container font-medium px-6 py-3 md:px-8 md:py-4 rounded-full text-base md:text-lg hover:brightness-110 transition-all flex items-center gap-2">
               DM Whatsapp
               <ArrowRight className="w-5 h-5" />
-            </button>
+            </a>
           </div>
         </div>
         
