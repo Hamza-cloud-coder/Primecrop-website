@@ -24,9 +24,9 @@ export default function Header() {
         <a className="text-white/80 hover:text-white transition-all hover:bg-white/10 rounded-full px-3 py-1" href="#careers">Careers</a>
       </nav>
       
-      <button className="hidden md:block bg-secondary-container text-primary-container font-semibold px-6 py-2.5 rounded-full hover:scale-95 active:scale-100 duration-200 transition-all text-sm">
+      <a href="https://wa.me/61459771636" className="hidden md:block bg-secondary-container text-primary-container font-semibold px-6 py-2.5 rounded-full hover:scale-95 active:scale-100 duration-200 transition-all text-sm">
         DM Whatsapp
-      </button>
+      </a>
 
       {/* Hamburger Button */}
       <button className="md:hidden p-2 text-white" onClick={() => setIsOpen(!isOpen)}>
@@ -40,9 +40,9 @@ export default function Header() {
           <a className="text-white/80" href="#product" onClick={() => setIsOpen(false)}>Product</a>
           <a className="text-white/80" href="#sustainability" onClick={() => setIsOpen(false)}>Sustainability</a>
           <a className="text-white/80" href="#careers" onClick={() => setIsOpen(false)}>Careers</a>
-          <button className="bg-secondary-container text-primary-container font-semibold px-6 py-2.5 rounded-full text-sm">
+          <a href="https://wa.me/61459771636" className="bg-secondary-container text-primary-container font-semibold px-6 py-2.5 rounded-full text-sm">
             DM Whatsapp
-          </button>
+          </a>
         </nav>
       )}
     </header>

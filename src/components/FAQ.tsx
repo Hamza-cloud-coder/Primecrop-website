@@ -70,7 +70,7 @@ export default function FAQ() {
           <img src="/assets/img-ecosystems-agro-harvest.webp" alt="Sustainable Farming" className="w-full h-64 md:h-80 object-cover" />
           <div className="absolute bottom-4 md:bottom-6 left-4 md:left-6 right-4 md:right-6 bg-white rounded-xl p-4 md:p-6 flex flex-col md:flex-row justify-between items-center gap-4 shadow-lg">
             <span className="font-medium text-base md:text-lg">Still Have a Questions?</span>
-            <button className="bg-primary text-white px-6 py-3 rounded-full font-medium hover:bg-primary/90 transition-all">Contact Us</button>
+            <a href="https://wa.me/61459771636" className="bg-primary text-white px-6 py-3 rounded-full font-medium hover:bg-primary/90 transition-all">Contact Us</a>
           </div>
         </div>
       </div>
