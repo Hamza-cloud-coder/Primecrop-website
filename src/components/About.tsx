@@ -1,9 +1,9 @@
 
 export default function About() {
   const services = [
-    { title: 'Food & Beverage Marketplace', text: 'Market everything from raw commodities to premium artisanal products with AgroLink, the perfect solution for brands seeking new distribution channels', image: '/assets/mar.jpg' },
-    { title: 'Logistics & Transport', text: 'Solve your shipping challenges with AgroLink. Access reliable freight partners specialized in cold-chain and bulk cargo.', image: '/assets/log.jpg' },
-    { title: 'Agri-Tech & Insights', text: 'Buy and sell machinery with confidence inside AgroLink. Access detailed technical specifications and direct contact with dealers of new and used equipment.', image: '/assets/agri.jpg' },
+    { title: 'Food & Beverage Marketplace', text: 'Market everything from raw commodities to premium artisanal products with Prime crop ltd, the perfect solution for brands seeking new distribution channels', image: '/assets/mar.jpg' },
+    { title: 'Logistics & Transport', text: 'Solve your shipping challenges with Prime crop ltd. Access reliable freight partners specialized in cold-chain and bulk cargo.', image: '/assets/log.jpg' },
+    { title: 'Agri-Tech & Insights', text: 'Buy and sell machinery with confidence inside Prime crop ltd. Access detailed technical specifications and direct contact with dealers of new and used equipment.', image: '/assets/agri.jpg' },
   ];
 
   return (

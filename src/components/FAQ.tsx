@@ -16,8 +16,8 @@ const faqData = [
     answer: "Our model is transparent. We charge a flat fee based on the transaction type rather than hidden commissions, ensuring you keep more of your profit."
   },
   {
-    question: "Is AgroLink suitable for small producers?",
-    answer: "Absolutely. AgroLink is designed for producers of all sizes, from small craft artisans and local farms to large-scale industrial operations."
+    question: "Is Prime crop ltd suitable for small producers?",
+    answer: "Absolutely. Prime crop ltd is designed for producers of all sizes, from small craft artisans and local farms to large-scale industrial operations."
   }
 ];
 

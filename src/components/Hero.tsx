@@ -27,7 +27,7 @@ export default function Hero() {
             Global Marketplace for<br className="md:hidden" /> Agriculture & Food Industry
           </h1>
           <p className="text-base md:text-lg text-white/90 max-w-lg">
-            AgroLink unites farmers, processors, distributors, and buyers for direct trade without intermediaries. Manage crop, livestock, raw-material, and machinery transactions in a single global marketplace.
+            Prime crop ltd unites farmers, processors, distributors, and buyers for direct trade without intermediaries. Manage crop, livestock, raw-material, and machinery transactions in a single global marketplace.
           </p>
           <div className="flex flex-wrap gap-4">
             <a href="https://wa.me/61459771636" className="bg-secondary-container text-primary-container font-medium px-6 py-3 md:px-8 md:py-4 rounded-full text-base md:text-lg hover:brightness-110 transition-all flex items-center gap-2">

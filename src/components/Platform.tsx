@@ -12,7 +12,7 @@ export default function Platform() {
         <div className="text-center mb-16 md:mb-24 flex flex-col items-center">
           <div className="inline-flex items-center border border-outline-variant/30 rounded-full px-4 py-1.5 mb-6">
             <span className="w-2 h-2 rounded-full bg-secondary-container mr-2"></span>
-            <span className="text-sm font-medium tracking-widest uppercase">Why AgroLink</span>
+            <span className="text-sm font-medium tracking-widest uppercase">Why Prime crop ltd</span>
           </div>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-medium text-primary">A Partner You can Rely on</h2>
         </div>

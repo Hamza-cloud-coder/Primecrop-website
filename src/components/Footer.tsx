@@ -12,7 +12,7 @@ export default function Footer() {
         {/* Top: Logo and Mail */}
         <div className="flex flex-col mb-12 border-b border-white/20 pb-8 gap-8">
           <div className="text-2xl font-bold flex items-center">
-            <img src="/assets/agro limk logo png3.png" alt="AgroLink Logo" className="h-16 w-auto" />
+            <img src="/assets/prime logo 2.png" alt="Prime crop ltd Logo" className="h-10 w-auto" />
           </div>
           <div className="flex items-center gap-4">
             <div className="bg-white/10 p-3 rounded-full">
@@ -20,7 +20,7 @@ export default function Footer() {
             </div>
             <div>
               <p className="text-xs uppercase text-white/80">Mail us</p>
-              <p className="text-xl font-semibold">info@agrolinkworld.com</p>
+              <p className="text-xl font-semibold">info@primecropltd.com</p>
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@ export default function Footer() {
             <ul className="space-y-4 text-white text-lg">
               <li><Link to="/#about">About</Link></li>
               <li><Link to="/products">Our Services</Link></li>
-              <li><Link to="/#why">Why AgroLink</Link></li>
+              <li><Link to="/#why">Why Prime crop ltd</Link></li>
               <li><Link to="/#faq">FAQ</Link></li>
               <li><a href="https://wa.me/61459771636">Start Now</a></li>
             </ul>
@@ -58,7 +58,7 @@ export default function Footer() {
 
         {/* Bottom: Copyright and links */}
         <div className="flex flex-col pt-8 border-t border-white/20 text-white/80 text-base gap-8">
-          <p>© 2026 AgroLink. All rights reserved.</p>
+          <p>© 2026 Prime crop ltd. All rights reserved.</p>
           <div className="flex flex-wrap gap-6">
             <Link to="/terms">Terms & Conditions</Link>
             <Link to="/privacy">Privacy Policy</Link>
